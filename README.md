@@ -67,7 +67,3 @@ Crie um programa que:
 
 Cada exercício foi pensado para consolidar os principais pilares da programação, desenvolvendo a capacidade de raciocínio lógico e resolução de problemas de maneira estruturada.
 
----
-
-Se quiser, também posso te entregar esse README já formatadinho para copiar direto, ou gerar junto com uma sugestão de estrutura de pastas (tipo: `exercicio-01`, `exercicio-02` etc).  
-Quer? 🚀
