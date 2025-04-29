@@ -1,3 +1,5 @@
+package com.basic.exercise01;
+
 import java.util.Scanner;
 
 public class Exercise01 {
@@ -9,7 +11,7 @@ public class Exercise01 {
             System.out.println("Informe um número: ");
             numbers[i] = sc.nextInt();
         }
-        
+
         System.out.println("A soma de números pares é: " + sumEvenNumbers(numbers));
 
         sc.close();
